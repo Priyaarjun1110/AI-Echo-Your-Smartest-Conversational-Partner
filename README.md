@@ -90,8 +90,7 @@ Dataset: [ChatGPT-Style Reviews Dataset](https://docs.google.com/spreadsheets/d/
 
 ---
 
-## 📌 Deliverables
-- ✅ Cleaned & Preprocessed Dataset  
+## 📌 Deliverables 
 - ✅ EDA Report with Visualizations  
 - ✅ Trained ML/DL Sentiment Classification Model  
 - ✅ Streamlit Dashboard for insights  
