@@ -109,7 +109,6 @@ AI-Echo-Sentiment-Analysis/
 │── artifacts/             # Trained Models & Outputs
 │── configs/               # Config files
 │── README.md              # Project Documentation
-│── requirements.txt       # Dependencies
 ```
 
 
